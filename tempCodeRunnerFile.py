@@ -1,0 +1,1 @@
+print(reversed(my_list))
